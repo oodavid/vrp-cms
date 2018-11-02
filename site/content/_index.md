@@ -1,5 +1,5 @@
 ---
-title: Flow VRP - We optimize your fleet operations
+title: Flow VRP - We optimize fleet operations
 subtitle: 'Vehicle Routing, Route Density and Scheduling'
 image: /img/screen-shot-2018-11-02-at-12.05.58.png
 blurb:
