@@ -1,11 +1,11 @@
 ---
 title: Flow VRP - We optimize fleet operations
-subtitle: 'Vehicle Routing, Route Density and Scheduling'
+subtitle: 'Fleet Route Optimisation, Route Density, Scheduling, Isochrone Analysis'
 image: /img/screen-shot-2018-11-02-at-12.05.58.png
 blurb:
-  heading: Why Kaldi?
+  heading: Why Flow VRP?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
+    Flow VRP is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
