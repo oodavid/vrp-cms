@@ -1,7 +1,7 @@
 ---
 title: Flow VRP - We optimize your fleet operations
 subtitle: 'Vehicle Routing, Route Density and Scheduling'
-image: /img/home-jumbotron.jpg
+image: /img/screen-shot-2018-11-02-at-12.05.58.png
 blurb:
   heading: Why Kaldi?
   text: >-
