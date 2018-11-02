@@ -1,12 +1,13 @@
 ---
 title: Flow VRP - We improve fleet operations
-subtitle: Our tools and services make your fleet more efficient and valuable
+subtitle: >-
+  Route Optimisation, Scheduling, Route Density, Isochrone Analysis, Employee
+  Skill Recommendations, Hiring Recommendations
 image: /img/screen-shot-2018-11-02-at-12.05.58.png
 blurb:
   heading: Why Flow VRP?
   text: >-
-    To put somewhere: Route Optimisation, Scheduling, Route Density, Isochrone
-    Analysis, Employee Skill Recommendations, Hiring Recommendations...
+    Our tools and services make your fleet more efficient and valuable
 
 
     Flow VRP is the coffee store for everyone who believes that great coffee
