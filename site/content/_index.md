@@ -1,8 +1,8 @@
 ---
 title: Flow VRP - We improve fleet operations
 subtitle: >-
-  Route Optimisation, Scheduling, Route Density, Isochrone Analysis, Employee
-  Skill Recommendations, Hiring Recommendations
+  Route Optimisation, Route Density, Scheduling App, Isochrone Analysis,
+  Training Recommendations, Hiring Recommendations
 image: /img/screen-shot-2018-11-02-at-12.05.58.png
 blurb:
   heading: Why Flow VRP?
